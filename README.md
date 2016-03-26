@@ -1,0 +1,2 @@
+# Georgian-Language
+Georgian words
