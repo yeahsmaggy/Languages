@@ -1,0 +1,5 @@
+- To learn a foreign language first learn to be and to have and then the different conjudgations.
+- Then learn them in at least 3 tenses.
+- Losely learn verbs and listen attentively to others in the country.
+- Try to focus on the keywords and then on the ones in between (syntax).
+- Start explaining stuff in the language.
