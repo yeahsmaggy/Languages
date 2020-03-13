@@ -720,3 +720,55 @@ good morning, delam schwedobesa,
 good night, rame schwedobesa,
 bread, puri,
 money, pooli,
+
+
+## Alphabet
+
+![](/sites/default/files/6846E524-3A30-49EC-888C-8E285158FE7D.jpg)
+![](/sites/default/files/779927AB-5A2A-41B0-94B4-0028E77A86B8.jpg)
+![](/sites/default/files/georgian.gif)
+
+![](/sites/default/files/Georgian_Alphabet_Letter_%E1%83%A4.jpg)
+
+
+##  Links
+
+Information about the Georgian language and alphabets  
+[http://en.wikipedia.org/wiki/Georgian_language](http://en.wikipedia.org/wiki/Georgian_language)  
+[http://www.aboutgeorgia.net/language/](http://www.aboutgeorgia.net/language/)
+
+Georgian language courses  
+[http://www.101languages.net/georgian/](http://www.101languages.net/georgian/)  
+[http://mylanguages.org/georgian_audio.php](http://mylanguages.org/georgian_audio.php)  
+[http://www.ocf.berkeley.edu/~shorena/](http://www.ocf.berkeley.edu/~shorena/)  
+[http://www.georgian-language.com](http://www.georgian-language.com/)
+
+Georgian - a reading grammar (PDF)  
+[http://www.seelrc.org:8080/grammar/pdf/stand_alone_georgian.pdf](http://www.seelrc.org:8080/grammar/pdf/stand_alone_georgian.pdf)
+
+Georgian phrases  
+[http://ggdavid.tripod.com/georgia/language/gphrases.htm](http://ggdavid.tripod.com/georgia/language/gphrases.htm)  
+[http://www.aboutgeorgia.ge/language/phrases.html?page=1](http://www.aboutgeorgia.ge/language/phrases.html?page=1)  
+[http://wikitravel.org/en/Georgian_phrasebook](http://wikitravel.org/en/Georgian_phrasebook)  
+[http://www.masteranylanguage.com/cgi/f/rView.pl?pc=MALGeorgian&tc=CommonPhrases&vm=fc](http://www.masteranylanguage.com/cgi/f/rView.pl?pc=MALGeorgian&tc=CommonPhrases&vm=fc)  
+[http://mylanguages.org/georgian_phrases.php](http://mylanguages.org/georgian_phrases.php)  
+[http://omnestour.ge/travel-info/useful-georgian-phrases](http://omnestour.ge/travel-info/useful-georgian-phrases)  
+[http://georgiaphiles.wordpress.com/2013/03/01/everyday-georgian-phrases/](http://georgiaphiles.wordpress.com/2013/03/01/everyday-georgian-phrases/)
+
+Online Georgian dictionaries  
+[http://www.translate.ge](http://www.translate.ge/)  
+[http://www.georgianweb.com/language/dictionary/](http://www.georgianweb.com/language/dictionary/index.html)
+
+Georgian transliteration and spell checkers  
+[http://ge.translit.cc/](http://ge.translit.cc/)  
+[http://www.translitteration.com/transliteration/en/georgian/national/](http://www.translitteration.com/transliteration/en/georgian/national/)
+
+Georgian fonts  
+[http://www.fonts.ge](http://www.fonts.ge/)  
+[http://www.wazu.jp/gallery/Fonts_Georgian.html](http://www.wazu.jp/gallery/Fonts_Georgian.html)
+
+Online Georgian news and radio  
+[http://www.tavisupleba.org/](http://www.tavisupleba.org/)
+
+
+[Peace Corp Georgian Beginner Course](/sites/default/files/GE_Georgian_Language_Lessons.pdf) 
